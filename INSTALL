@@ -1,0 +1,6 @@
+gop.py requirements:
+
+   ·Python modules: subprocess, Popen, threading
+   ·mplayer
+   ·DataMosher.Py (available in my github also)
+   ·Blender, the program will invoice blender to render all the frames
